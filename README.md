@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-banner.jpg" alt="João O. Santos — psychology, research methods, statistics, R, reproducible workflows, and open-source tools" width="100%">
+  <img src="./assets/research-banner.jpg" alt="João O. Santos — philosophy of science, research methods, statistics, R, reproducible workflows, and open-source tools" width="100%">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Hi, I'm João (John)
 
-I'm an **Assistant Professor at ISPA** and a social psychologist by training. Much of my research has been about how adults perceive and treat children as a social category. I also teach statistics, research methods, and philosophy of science, do quantitative consulting, and build tools for research and teaching.
+I'm an **Assistant Professor at ISPA**. A lot of what I do sits where **philosophy of science, research methods, and statistics** meet: I teach across those areas, do quantitative consulting, and build tools for research and teaching. My academic background is in social psychology, with research on how adults perceive and treat children as a social category.
 
 This GitHub profile is mostly the technical side of that work: **R, reproducible research, Linux, research software, and small open-source tools**. More recently, it also includes some experiments around LLM-assisted workflows.
 
