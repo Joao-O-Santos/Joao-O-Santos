@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/research-banner.jpg" alt="João O. Santos — philosophy of science, research methods, statistics, R, reproducible workflows, and open-source tools" width="100%">
+  <img src="./assets/research-banner.png" alt="João O. Santos — philosophy of science, research methods, statistics, R, reproducible workflows, and open-source tools" width="100%">
 </p>
 
 <p align="center">
