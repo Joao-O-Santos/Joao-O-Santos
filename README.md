@@ -12,7 +12,7 @@
 
 ## Hi, I'm João (John)
 
-I'm an **Assistant Professor at ISPA**. A lot of what I do sits where **philosophy of science, research methods, and statistics** meet: I teach across those areas, do quantitative consulting, and build tools for research and teaching. My academic background is in social psychology, with research on how adults perceive and treat children as a social category.
+I'm an **Assistant Professor at ISPA**. My work connects **philosophy of science, research methods, and statistics**: I teach across those areas, do quantitative consulting, and develop open-source software to help researchers build more reproducible and open research workflows. My academic background is in social psychology, with research on how adults perceive and treat children as a social category.
 
 This GitHub profile is mostly the technical side of that work: **R, reproducible research, Linux, research software, and small open-source tools**. More recently, it also includes some experiments around LLM-assisted workflows.
 
